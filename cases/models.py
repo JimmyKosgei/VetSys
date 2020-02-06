@@ -17,4 +17,4 @@ class Case(models.Model):
     sex = models.CharField(null=False, max_length=255)
     age = models.CharField(null=False, max_length=255)
     identity = models.CharField(null=True, max_length=255)
-    complaint = models.CharField(null=False, max_length=255),
+    complaint = models.CharField(null=True, max_length=255)
