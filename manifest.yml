@@ -3,6 +3,6 @@ applications:
  - path: .
    random-route: true
    memory: 512M
-   name: vetSys
+   name: backendvetsys
    command: python manage.py runserver
-   
+
