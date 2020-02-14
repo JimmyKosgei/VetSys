@@ -29,7 +29,7 @@ DEBUG = True
 CORS_ORIGIN_ALLOW_ALL = True
 
 
-ALLOWED_HOSTS = ['tugavetsys.eu-gb.mybluemix.net']
+ALLOWED_HOSTS = []
 
 
 # Application definition
