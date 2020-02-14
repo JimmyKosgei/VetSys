@@ -90,9 +90,10 @@ WSGI_APPLICATION = 'VetSys.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'vet',
-        'USER': 'root',
-        'password': '',
+        'NAME': 'Mq59g8AGTc',
+        'HOST': 'remotemysql.com',
+        'USER': 'Mq59g8AGTc',
+        'password': 'wQMbsNbZAY',
         # 'OPTIONS': {
         #     'read_default_file': os.path.join(os.path.dirname(BASE_DIR), 'VetSys', 'my.cnf'),
         # },
